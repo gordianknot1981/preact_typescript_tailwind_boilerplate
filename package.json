@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "temp",
+    "name": "preact_typescript_tailwindcss_boilerplate",
     "version": "0.0.0",
     "license": "MIT",
     "scripts": {
