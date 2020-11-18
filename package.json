@@ -28,6 +28,9 @@
     "eslintIgnore": [
         "build/*"
     ],
+    "dependenciesNote": {
+        "pixi-animate": "只相容於 pixi.js 4.x"
+    },
     "dependencies": {
         "pixi-action": "^1.0.2",
         "pixi-animate": "^1.3.5",

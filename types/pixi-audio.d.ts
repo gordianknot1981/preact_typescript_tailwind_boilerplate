@@ -36,4 +36,3 @@ declare module PIXI {
     export function audioParser():(resource:any, cb:()=>void)=>void;
   }
 }
-
